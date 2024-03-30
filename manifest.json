@@ -1,0 +1,15 @@
+{
+    "name": "Tanzania's Live Currency",
+    "version": "1.0.0",
+    "description": "Now you can see Live, the Tanzania's currency exchange values with the big 10 currency!",
+    "manifest_version": 3,
+    "author": "Isaka-James",
+    "action": {
+        "default_icon": "tz.webp",
+        "default_popup": "index.html",
+        "default_title": "Tanzania's Live Exchange"
+    },
+    "permissions": [
+        "https://open.er-api.com/v6/latest/TZS"
+    ]
+}
