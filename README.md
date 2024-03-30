@@ -26,7 +26,7 @@ The TSH Real-Time Currency Converter Chrome Extension offers instant access to u
 
 ## Feedback
 
-We welcome any feedback or suggestions for improving the TSH Real-Time Currency Converter Chrome Extension. If you encounter any issues or have ideas for new features, please feel free to [contact us](mailto:example@example.com).
+We welcome any feedback or suggestions for improving the TSH Real-Time Currency Converter Chrome Extension. If you encounter any issues or have ideas for new features, please feel free to [contact us](isaka-james.vercel.app).
 
 ## Credits
 
